@@ -1,0 +1,44 @@
+{
+  "indian_financial": [
+    {"name": "MoneyControl Top", "url": "https://www.moneycontrol.com/rss/MCtopnews.xml"},
+    {"name": "MoneyControl Markets", "url": "https://www.moneycontrol.com/rss/marketreports.xml"},
+    {"name": "ET Markets", "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms"},
+    {"name": "ET Economy", "url": "https://economictimes.indiatimes.com/news/economy/rssfeeds/1373380680.cms"},
+    {"name": "LiveMint Markets", "url": "https://www.livemint.com/rss/markets"},
+    {"name": "LiveMint Economy", "url": "https://www.livemint.com/rss/economy"},
+    {"name": "BS Markets", "url": "https://www.business-standard.com/rss/markets-106.rss"},
+    {"name": "BS Economy", "url": "https://www.business-standard.com/rss/economy-102.rss"},
+    {"name": "NDTV Profit", "url": "https://www.ndtvprofit.com/rss"}
+  ],
+  "indian_regulatory": [
+    {"name": "RBI Press", "url": "https://rbi.org.in/pressreleases_rss.xml"},
+    {"name": "PIB Economy", "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3"}
+  ],
+  "global_financial": [
+    {"name": "Reuters Business", "url": "https://feeds.reuters.com/reuters/businessNews"},
+    {"name": "Reuters Markets", "url": "https://feeds.reuters.com/reuters/marketsNews"},
+    {"name": "CNBC Top", "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"},
+    {"name": "CNBC World", "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362"},
+    {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/news/rssindex"},
+    {"name": "MarketWatch", "url": "https://feeds.marketwatch.com/marketwatch/topstories"}
+  ],
+  "global_general": [
+    {"name": "CNN Top", "url": "https://rss.cnn.com/rss/edition.rss"},
+    {"name": "CNN Money", "url": "https://rss.cnn.com/rss/money_news_international.rss"},
+    {"name": "Fox News", "url": "https://feeds.foxnews.com/foxnews/latest"},
+    {"name": "Fox Business", "url": "https://feeds.foxnews.com/foxbusiness/latest"},
+    {"name": "BBC World", "url": "https://feeds.bbci.co.uk/news/world/rss.xml"},
+    {"name": "BBC Business", "url": "https://feeds.bbci.co.uk/news/business/rss.xml"},
+    {"name": "AP News", "url": "https://apnews.com/index.rss"}
+  ],
+  "central_banks": [
+    {"name": "US Fed", "url": "https://www.federalreserve.gov/feeds/press_all.xml"},
+    {"name": "ECB Press", "url": "https://www.ecb.europa.eu/rss/press.html"},
+    {"name": "IMF News", "url": "https://www.imf.org/en/News/Rss"},
+    {"name": "World Bank", "url": "https://www.worldbank.org/en/news/rss"}
+  ],
+  "crypto": [
+    {"name": "CoinDesk", "url": "https://www.coindesk.com/arc/outboundfeeds/rss/"},
+    {"name": "CoinTelegraph", "url": "https://cointelegraph.com/rss"}
+  ]
+}

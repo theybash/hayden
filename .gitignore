@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.db
+.env
+.env.local
+.DS_Store
+.next/
+node_modules/
+chat_data/
+pipeline_data/
+*.egg-info/
+dist/
+build/
+*.faiss
